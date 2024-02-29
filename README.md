@@ -1,16 +1,27 @@
-# todo
+# Todo App with BLoC State Management
 
-A new Flutter project.
+A simple todo app built with Flutter and BLoC state management.
+
+## Features
+
+- **Add Todo**: Add a new todo item with a title and description.
+- **View Todo List**: View the list of all todo items.
+- **Delete Todo**: Delete a todo item from the list.
+- **Update Todo**: Edit the title or description of a todo item.
+- **Mark as Completed**: Mark todo items as completed.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to get the project up and running on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK installed on your machine.
+- Android emulator or iOS simulator, or a physical device connected for testing.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shubhamxsagar/Todo.git
